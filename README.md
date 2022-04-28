@@ -12,12 +12,12 @@ Bash script to find live hosts on current network.
 
 * The .sh file should be given executable permission.
 ```
-chmod +x LiveHostScanner.sh
+chmod +x /path/LiveHostScanner.sh
 ```
 
 *Then it can be run via terminal.
 ```
-./LiveHostScanner.sh
+/path/LiveHostScanner.sh
 ```
 
 
