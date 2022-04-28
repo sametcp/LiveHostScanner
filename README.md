@@ -8,11 +8,6 @@ Bash script to find live hosts on current network.
 
 ## Getting Started
 
-
-### Installing
-
-git clone https://github.com/sametcp/LiveHostScanner.git
-
 ### Executing program
 
 * The .sh file should be given executable permission.
